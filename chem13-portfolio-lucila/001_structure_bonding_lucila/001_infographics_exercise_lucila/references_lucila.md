@@ -1,4 +1,5 @@
 REFERENCES:
+
 angelannparaan. (2026). Template Statement of Ai Disclosure and Declaration. Scribd.   
        https://www.scribd.com/document/962269987/Template-Statement-of-Ai-Disclosure-and-Declaration
 

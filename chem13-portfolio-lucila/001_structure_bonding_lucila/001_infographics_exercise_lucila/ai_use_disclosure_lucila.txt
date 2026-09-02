@@ -2,7 +2,7 @@
 I, Van Zan Jave C. Lucila, an undergraduate student of the Bicol University under the Chemical Engineering Course, hereby declare that Al tools were utilized in the development of this output. All Al- generated outputs were used responsibly, ethically and are documented in the list below.
         Utilization and Limitation:
           1. Artifical intelligence (Google Gemini) was used to organize, shorten, and rephrase contents of the.  
-             inforgaphic.
+             inforgaphics.
           2. Informations and Data are not generated directly by the said AI software, but rather sourced from reliable  
              references (refer to reference_lucila.md).
 

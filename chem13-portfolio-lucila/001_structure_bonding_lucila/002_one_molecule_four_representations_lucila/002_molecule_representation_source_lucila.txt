@@ -4,7 +4,7 @@ Barajas, J. R. (n.d.).Chem 13 – Organic chemistry lecture series (Lectures 2�
 
 Scidart Academy. (2026). MolDraw – free ChemDraw alternative by scidart academy. MolDraw. https://www.moldraw.com/
 
-Ketcher v2.25.0. (2024). Epam.Com. https://lifescience.opensource.epam.com/KetcherDemoSA/index.html
+Ketcher v3.18.0. (2024). Epam.Com. https://lifescience.opensource.epam.com/KetcherDemoSA/index.html
 
 angelannparaan. (2026). Template Statement of Ai Disclosure and Declaration. Scribd.
 https://www.scribd.com/document/962269987/Template-Statement-of-Ai-Disclosure-and-Declaration

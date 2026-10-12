@@ -2,9 +2,9 @@ REFERENCES:
 
 Barajas, J. R. (n.d.).Chem 13 – Organic chemistry lecture series (Lectures 2–5) [Lecture notes]. Chemical Engineering Department, Bicol University.
 
-Scidart Academy. (n.d.). MolDraw [Computer software]. https://www.moldraw.com/
+Scidart Academy. (2026). MolDraw – free ChemDraw alternative by scidart academy. MolDraw. https://www.moldraw.com/
 
-SciTouch LLC. (n.d.). Ketcher [Computer software]. EPAM Life Sciences. epam.com
+Ketcher v2.25.0. (2024). Epam.Com. https://lifescience.opensource.epam.com/KetcherDemoSA/index.html
 
 angelannparaan. (2026). Template Statement of Ai Disclosure and Declaration. Scribd.
 https://www.scribd.com/document/962269987/Template-Statement-of-Ai-Disclosure-and-Declaration
